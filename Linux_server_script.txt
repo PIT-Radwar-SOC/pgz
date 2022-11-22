@@ -1,0 +1,1 @@
+curl -o ~/Downloads/eicar.com.txt https://www.eicar.org/download/eicar.com.txt
